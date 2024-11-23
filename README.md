@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-## H2 my favorite movies/series
+## my favorite movies/series
 1. **Haikyuu**
 2. *Jujutsu Kaisen*
 3. Kiki's Delviery Service
